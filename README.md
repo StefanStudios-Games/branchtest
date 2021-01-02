@@ -1,2 +1,4 @@
 # branchtest
-Test of feature branches
+Feature branches test
+
+We added this text in the 'modified' branch.
